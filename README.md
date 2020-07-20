@@ -4,4 +4,4 @@ All of the songs used to produce the visualization were songs that were featured
 
 The audio features (valence, energy etc.) come from the Spotify Web API
 
-https://kmooyang.github.io/pagesv2/
+https://kmooyang.github.io/Spotify-Visualizations/
