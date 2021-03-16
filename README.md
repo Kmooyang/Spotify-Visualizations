@@ -5,3 +5,5 @@ All of the songs used to produce the visualization were songs that were featured
 The audio features (valence, energy etc.) come from the Spotify Web API
 
 https://kmooyang.github.io/Spotify-Visualizations/
+
+<a href="https://github.com/Duongers">Justin Duong</a>, <a href="https://github.com/LeongJared">Jared Leung</a> and Kevin Mouayang
